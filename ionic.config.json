@@ -1,0 +1,8 @@
+{
+  "name": "hnrTech",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

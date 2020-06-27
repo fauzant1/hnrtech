@@ -1,0 +1,41 @@
+    .userData {
+        ion-item {
+            ion-label {
+                small {
+                    color: gray;
+                }
+            }
+        }
+    }
+    
+    .noData {
+        padding: 12px;
+        color: #262626 !important;
+        text-align: center;
+    }
+    
+    .nextPrevBtn {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    
+    .circular-img {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+    
+    .circular-img img {
+        display: inline-block;
+        height: 150px;
+        width: 150px;
+        margin-top: 12px;
+        border-radius: 50%;
+    }
+    
+    @media only screen and (max-width: 640px) {
+        .circular-image {
+            border-radius: 50%;
+        }
+    }

@@ -15,13 +15,9 @@
         </ion-label>
     </ion-item>
     <ion-card>
-        <!-- <ion-avatar style="display: flex;
-        align-items: center;"> -->
         <div class="circular-img">
             <img [src]="detailData.data.avatar">
         </div>
-
-        <!-- </ion-avatar> -->
 
         <ion-card-header>
             <ion-card-title><strong>
@@ -34,29 +30,24 @@
             {{detailData.ad.text}}
         </ion-card-content>
     </ion-card>
+    <ion-fab vertical="bottom" horizontal="start" slot="fixed">
+        <ion-fab-button>
+            <ion-icon name="share-social"></ion-icon>
+        </ion-fab-button>
+        <ion-fab-list side="end">
+            <ion-fab-button>
+                <ion-icon name="logo-vimeo"></ion-icon>
+            </ion-fab-button>
+            <ion-fab-button>
+                <ion-icon name="logo-facebook"></ion-icon>
+            </ion-fab-button>
+            <ion-fab-button>
+                <ion-icon name="logo-instagram"></ion-icon>
+            </ion-fab-button>
+            <ion-fab-button>
+                <ion-icon name="logo-twitter"></ion-icon>
+            </ion-fab-button>
+        </ion-fab-list>
 
-
-
-    <!-- <ion-item>
-        <ion-icon name="person-circle" color="primary"></ion-icon>
-        <ion-label class="ion-text-wrap">
-            <h2>
-                {{ message.fromName }}
-                <span class="date">
-          <ion-note>{{ message.date }}</ion-note>
-        </span>
-            </h2>
-            <h3>To:
-                <ion-note>Me</ion-note>
-            </h3>
-        </ion-label>
-    </ion-item>
-
-    <div class="ion-padding">
-        <h1>{{ message.subject }}</h1>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-            in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-    </div> -->
+    </ion-fab>
 </ion-content>

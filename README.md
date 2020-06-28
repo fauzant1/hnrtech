@@ -19,6 +19,10 @@ the header.
 ### App Icon
 <img src="./src/assets/screenshots/1.jpg" />
 
+### Splash Screen
+<img src="./src/assets/screenshots/3.jpg" />
+
+
 ### Prerequisites
 
 Angular

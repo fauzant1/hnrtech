@@ -1,9 +1,21 @@
 # HNR TECH TEST PROJECT
 
-One Paragraph of project description goes here
+Test project given by HNR TECH as a Technical Round Selection.
+
+● Create a page where the user's picture, name, and email will be visible in the list.
+● On click of the user, it should redirect to the profile page.
+● Only 6 records should be shown on each page and the navigate link will be used to go to the next
+and previous page.
+● There should be a search bar to search the user and sorting button to sort records by full name on
+the header.
+● API https://reqres.in/api/users
 
 
 ### Prerequisites
+
+Angular
+Ionic
+Cordova
 
 Ionic:
 
@@ -35,6 +47,3 @@ System:
    NodeJS : v12.18.0 (C:\Program Files\nodejs\node.exe)
    npm    : 6.14.4
    OS     : Windows 7
-
-
-

@@ -16,7 +16,7 @@ the header.
 
 # Screenshots
 
-<img src="../src/assets/screenshots/1.jpg" />
+<img src="./src/assets/screenshots/1.jpg" />
 
 ### Prerequisites
 

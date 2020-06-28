@@ -17,7 +17,7 @@ the header.
 # Screenshots
 
 ### App Icon
-<img height=550  src="./src/assets/screenshots/1.jpg" />
+<img height=350  src="./src/assets/screenshots/1.jpg" />
 
 ### Splash Screen
 <img height=550  src="./src/assets/screenshots/3.jpg" />

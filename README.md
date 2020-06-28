@@ -16,7 +16,7 @@ the header.
 
 # Screenshots
 
-## App Icon
+### App Icon
 <img src="./src/assets/screenshots/1.jpg" />
 
 ### Prerequisites

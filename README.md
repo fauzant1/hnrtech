@@ -16,7 +16,7 @@ the header.
 
 # Screenshots
 
-<img src="C:\Users\Fauzi\Downloads\Screenshot_20200628-184710_HNR Tech.jpg">
+<img src="../src/assets/screenshots/1.jpg" />
 
 ### Prerequisites
 

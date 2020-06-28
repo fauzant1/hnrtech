@@ -17,37 +17,37 @@ the header.
 # Screenshots
 
 ### App Icon
-<img height=300  src="./src/assets/screenshots/1.jpg" />
+<img height=550  src="./src/assets/screenshots/1.jpg" />
 
 ### Splash Screen
-<img height=300  src="./src/assets/screenshots/3.jpg" />
+<img height=550  src="./src/assets/screenshots/3.jpg" />
 
 ### User List 1
-<img height=300  src="./src/assets/screenshots/4.jpg" />
+<img height=550  src="./src/assets/screenshots/4.jpg" />
 
 ### User List 2
-<img height=300  src="./src/assets/screenshots/5.jpg" />
+<img height=550  src="./src/assets/screenshots/5.jpg" />
 
 ### User Profile
-<img height=300  src="./src/assets/screenshots/6.jpg" />
+<img height=550  src="./src/assets/screenshots/6.jpg" />
 
 ### Camera Capture
-<img height=300  src="./src/assets/screenshots/7.jpg" />
+<img height=550  src="./src/assets/screenshots/7.jpg" />
 
 ### Captured Clear
-<img height=300  src="./src/assets/screenshots/8.jpg" />
+<img height=550  src="./src/assets/screenshots/8.jpg" />
 
 ### Sorting
-<img height=300  src="./src/assets/screenshots/9.jpg" />
+<img height=550  src="./src/assets/screenshots/9.jpg" />
 
 ### Sorted
-<img height=300  src="./src/assets/screenshots/10.jpg" />
+<img height=550  src="./src/assets/screenshots/10.jpg" />
 
 ### Searching
-<img height=300  src="./src/assets/screenshots/11.jpg" />
+<img height=550  src="./src/assets/screenshots/11.jpg" />
 
 ### Vibration 
-<img height=300  src="./src/assets/screenshots/12.jpg" />
+<img height=550  src="./src/assets/screenshots/12.jpg" />
 
 
 

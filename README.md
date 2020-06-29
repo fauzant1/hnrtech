@@ -49,6 +49,10 @@ the header.
 ### Vibration 
 <img height=550  src="./src/assets/screenshots/12.jpg" />
 
+### No Network 
+<img height=550  src="./src/assets/screenshots/13.jpg" />
+
+
 
 
 ### Prerequisites

@@ -9,6 +9,7 @@ import { Camera } from '@ionic-native/camera/ngx';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { Vibration } from '@ionic-native/vibration/ngx';
+import { Network } from '@ionic-native/network/ngx';
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
@@ -19,6 +20,7 @@ import { Vibration } from '@ionic-native/vibration/ngx';
     SplashScreen,
     Camera,
     Vibration,
+    Network,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]
